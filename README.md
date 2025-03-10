@@ -1,11 +1,11 @@
-1. INTRODUCTION    
+<b>1. INTRODUCTION    </b>
     Project Title: Freelancing Application MERN
-    Team Members: Geetika Paliwal [Worked on the entire project by myself]
+    Team Members: Geetika Paliwal 
   
 2. PROJECT OVERVIEW
    Purpose: This is a freelancing application that connects freelancers and clients together. It enables freelancers to showcase their skills, and clients can hire freelancers to suit their needs
    Features:
-   a.Find perfect projects
+   a. Find perfect projects
    b. Seamless communication and collaboration between freelancers and clients
    c. Feedback: Both the parties can share feedback to imporve their work and services
   
@@ -34,7 +34,9 @@
 
    ![image](https://github.com/user-attachments/assets/7e6b5574-05fb-4e20-a76a-9332c9d19dd6)
 
+<b><h3>Link to Project Documentation </h3></b>
 
+https://docs.google.com/document/d/1IDi-yuwR8KDXg7w3Y0mrJMoUPvT0ktJm/edit?usp=sharing&ouid=111737861208119253358&rtpof=true&sd=true
 
 
    
