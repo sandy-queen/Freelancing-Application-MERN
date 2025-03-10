@@ -30,9 +30,10 @@
 
    SCREENSHOTS: ![image](https://github.com/user-attachments/assets/a08907ce-4746-498d-890e-e3d68b7dc094)
 
-   ![image](https://github.com/user-attachments/assets/c690d305-d2ae-4ef6-a447-58577f5df85a)
-
    ![image](https://github.com/user-attachments/assets/7c1ede46-ba84-4e0f-9298-bf8d28d9d232)
+
+   ![image](https://github.com/user-attachments/assets/7e6b5574-05fb-4e20-a76a-9332c9d19dd6)
+
 
 
 
